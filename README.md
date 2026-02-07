@@ -3,7 +3,7 @@
 This project is a basic image processing practice using Python and OpenCV.
 
 ## Features
-- Load image
+- Generate test image
 - Convert to grayscale
 - Resize image
 - Edge detection
@@ -12,6 +12,7 @@ This project is a basic image processing practice using Python and OpenCV.
 ## Environment
 - Python 3.x
 - OpenCV (cv2)
+- NumPy
 
 ## Purpose
 This project is created to improve image analysis skills.
